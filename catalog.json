@@ -1,0 +1,39 @@
+{
+    "generated_at": "2026-11-11T15:23:30+03:00",
+    "themes": [
+        {
+            "slug": "Lacivert",
+            "name": "Lacivert",
+            "version": "1.0.0",
+            "description": "Yazılım, SaaS ve dijital hizmetler için: lacivert üst kısım ve giriş, ikonlu özellik kartları, fiyat paketleri, dergi düzeninde blog, rakamlar bandı ve sıkça sorulan sorular.",
+            "author": "Modrix",
+            "category": "Teknoloji / SaaS",
+            "requires": {
+                "modrix": "1.0.0",
+                "php": "8.1"
+            },
+            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-themes/main/packages/Lacivert-1.0.0.zip",
+            "sha256": "e590cf252200666ea6b723faa1d2a5fc0364d7953ef1d3c9c59bc925afb6ac7f",
+            "price": 0,
+            "buy_url": "",
+            "screenshot": "https://raw.githubusercontent.com/ercanulucandev/modrix-themes/main/screenshots/Lacivert.svg"
+        },
+        {
+            "slug": "Kurumsal",
+            "name": "Kurumsal",
+            "version": "1.0.0",
+            "description": "Şirketler ve hizmet işletmeleri için: üst bilgi çubuğu, görselli giriş, hizmetler, hakkımızda ve iletişim bölümleri. Her bölüm Özelleştir'den düzenlenir.",
+            "author": "Modrix",
+            "category": "İşletme",
+            "requires": {
+                "modrix": "1.0.0",
+                "php": "8.1"
+            },
+            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-themes/main/packages/Kurumsal-1.0.0.zip",
+            "sha256": "12c475ace707aecec3e2f9872954686cf9a4d1a13e04c0bfd2cbe062d672192b",
+            "price": 0,
+            "buy_url": "",
+            "screenshot": "https://raw.githubusercontent.com/ercanulucandev/modrix-themes/main/screenshots/Kurumsal.svg"
+        }
+    ]
+}
