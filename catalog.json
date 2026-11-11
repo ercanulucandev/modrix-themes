@@ -1,39 +1,39 @@
 {
-    "generated_at": "2026-11-11T15:23:30+03:00",
+    "generated_at": "2026-11-11T16:00:24+03:00",
     "themes": [
         {
-            "slug": "Lacivert",
-            "name": "Lacivert",
+            "slug": "Blueberry",
+            "name": "Blueberry",
             "version": "1.0.0",
-            "description": "Yazılım, SaaS ve dijital hizmetler için: lacivert üst kısım ve giriş, ikonlu özellik kartları, fiyat paketleri, dergi düzeninde blog, rakamlar bandı ve sıkça sorulan sorular.",
+            "description": "Yazılım, SaaS ve dijital ürünler için: yaban mersini moru üst kısım ve giriş, ikonlu özellik kartları, fiyat paketleri, dergi düzeninde blog, rakamlar bandı ve sıkça sorulan sorular.",
             "author": "Modrix",
-            "category": "Teknoloji / SaaS",
+            "category": "Diğer",
             "requires": {
-                "modrix": "1.0.0",
+                "modrix": "1.0.1",
                 "php": "8.1"
             },
-            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-themes/main/packages/Lacivert-1.0.0.zip",
-            "sha256": "e590cf252200666ea6b723faa1d2a5fc0364d7953ef1d3c9c59bc925afb6ac7f",
+            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-themes/main/packages/Blueberry-1.0.0.zip",
+            "sha256": "ef88dbd832878a0062d7380388fd8ca446ec45330c8d108e413a6fea53bebd6b",
             "price": 0,
             "buy_url": "",
-            "screenshot": "https://raw.githubusercontent.com/ercanulucandev/modrix-themes/main/screenshots/Lacivert.svg"
+            "screenshot": "https://raw.githubusercontent.com/ercanulucandev/modrix-themes/main/screenshots/Blueberry.svg"
         },
         {
-            "slug": "Kurumsal",
-            "name": "Kurumsal",
+            "slug": "Redmo",
+            "name": "Redmo",
             "version": "1.0.0",
-            "description": "Şirketler ve hizmet işletmeleri için: üst bilgi çubuğu, görselli giriş, hizmetler, hakkımızda ve iletişim bölümleri. Her bölüm Özelleştir'den düzenlenir.",
+            "description": "Şirket, ajans ve hizmet siteleri için: kırmızı vurgulu güçlü bir kimlik, üst bilgi çubuğu, hizmet kartları, hakkımızda ve iletişim bölümleri.",
             "author": "Modrix",
-            "category": "İşletme",
+            "category": "Diğer",
             "requires": {
-                "modrix": "1.0.0",
+                "modrix": "1.0.1",
                 "php": "8.1"
             },
-            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-themes/main/packages/Kurumsal-1.0.0.zip",
-            "sha256": "12c475ace707aecec3e2f9872954686cf9a4d1a13e04c0bfd2cbe062d672192b",
+            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-themes/main/packages/Redmo-1.0.0.zip",
+            "sha256": "d63e37d1d75291a8bc9065c15899f245a136cf99f5a43ca1d5f7616d96fe2920",
             "price": 0,
             "buy_url": "",
-            "screenshot": "https://raw.githubusercontent.com/ercanulucandev/modrix-themes/main/screenshots/Kurumsal.svg"
+            "screenshot": "https://raw.githubusercontent.com/ercanulucandev/modrix-themes/main/screenshots/Redmo.svg"
         }
     ]
 }

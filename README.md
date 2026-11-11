@@ -2,12 +2,13 @@
 
 [Modrix](https://github.com/ercanulucandev/modrix) için temalar. Sitelerde **Sistem > Mağaza > Temalar**'dan tek tıkla kurulur,
 **Görünüm**'den önizlenip etkinleştirilir. Her paket SHA-256 özetiyle doğrulanır. Çekirdekle sade bir başlangıç teması
-(Default) gelir; buradaki temalar onun üzerine kurulur.
+(**Başlangıç**) gelir; buradaki temalar onun üzerine kurulur, olmayan dosyaları ondan alır. Hepsi tüm modüllerle
+(blog, sayfalar, formlar, mağaza, randevu, SSS, ekip, referanslar, portfolyo, bülten...) uyumludur.
 
 | Tema | |
 |---|---|
-| **Kurumsal** | Şirket ve hizmet siteleri: üst bilgi çubuğu, hizmetler, hakkımızda, iletişim bölümleri |
-| **Lacivert** | Teknoloji / SaaS: lacivert üst kısım, özellikler, fiyatlar, SSS, istatistik bölümleri |
+| **Blueberry** | Yazılım, SaaS ve dijital ürünler: yaban mersini moru üst kısım, ikonlu özellik kartları, fiyat paketleri, rakamlar, SSS, dergi düzeninde blog |
+| **Redmo** | Şirket, ajans ve hizmet siteleri: kırmızı vurgulu kimlik, üst bilgi çubuğu, hizmet kartları, hakkımızda, iletişim bölümleri |
 
 ## Depo düzeni
 
@@ -19,4 +20,4 @@
 | `screenshots/` | Mağazada görünen ekran görüntüleri |
 
 Tema geliştirmek: [Tema yazma rehberi](https://github.com/ercanulucandev/modrix/blob/main/docs/theme-tutorial.md) ·
-yayınlamak: `php modrix store:build --themes --base=https://raw.githubusercontent.com/ercanulucandev/modrix-themes/main/`
+yayınlamak: çekirdeğin yanında bu depo `modrix-themes` adıyla dururken `php modrix store:build --themes`

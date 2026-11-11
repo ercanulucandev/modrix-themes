@@ -1,0 +1,39 @@
+{
+    "name": "Blueberry",
+    "version": "1.0.0",
+    "description": "Yazılım, SaaS ve dijital ürünler için: yaban mersini moru üst kısım ve giriş, ikonlu özellik kartları, fiyat paketleri, dergi düzeninde blog, rakamlar bandı ve sıkça sorulan sorular.",
+    "author": "Modrix",
+    "requires": {
+        "php": "8.1"
+    },
+    "menus": {
+        "header": "Üst menü",
+        "footer": "Alt menü",
+        "footer_legal": "Alt menü (sözleşmeler)"
+    },
+    "sections": {
+        "home": [
+            {
+                "type": "hero"
+            },
+            {
+                "type": "features"
+            },
+            {
+                "type": "pricing"
+            },
+            {
+                "type": "blog"
+            },
+            {
+                "type": "stats"
+            },
+            {
+                "type": "faq"
+            },
+            {
+                "type": "contact"
+            }
+        ]
+    }
+}

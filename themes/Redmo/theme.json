@@ -1,0 +1,33 @@
+{
+    "name": "Redmo",
+    "version": "1.0.0",
+    "description": "Şirket, ajans ve hizmet siteleri için: kırmızı vurgulu güçlü bir kimlik, üst bilgi çubuğu, hizmet kartları, hakkımızda ve iletişim bölümleri.",
+    "author": "Modrix",
+    "requires": {
+        "php": "8.1"
+    },
+    "menus": {
+        "header": "Üst menü",
+        "footer": "Alt menü (kurumsal)",
+        "footer_services": "Alt menü (hizmetler)"
+    },
+    "sections": {
+        "home": [
+            {
+                "type": "hero"
+            },
+            {
+                "type": "services"
+            },
+            {
+                "type": "about"
+            },
+            {
+                "type": "blog.latest"
+            },
+            {
+                "type": "contact"
+            }
+        ]
+    }
+}
